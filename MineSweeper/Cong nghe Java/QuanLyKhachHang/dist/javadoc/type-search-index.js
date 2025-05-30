@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Model","l":"ConnectDB"},{"p":"quanlykhachhang","l":"Main"},{"p":"DAO","l":"QLKH"},{"p":"View","l":"QLKH"}];updateSearchResults();
